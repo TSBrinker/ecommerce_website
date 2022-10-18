@@ -44,9 +44,11 @@ h3 {
 }
 
 header {
-    position: relative;
+    width: 100%;
+    display: flex;
+    position: fixed;
     padding: 1rem;
-
+    background-color: white;
 }
 
 nav a {
@@ -185,7 +187,7 @@ main {
     }
     
     .icon {
-        height: 20px;
+        height: 1rem;
     }
 
     footer {
