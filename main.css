@@ -28,19 +28,19 @@ body {
 h1 {
     font-size: 45px;
     font-weight: 5;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 30px;
     font-weight: 5;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 h3 {
     font-size: 30px;
     font-weight: 5;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 header {
